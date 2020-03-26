@@ -8,7 +8,7 @@ There are many studies out there that show that introducing bike-sharing to a ci
 ![alt text](https://github.com/yannikkumar/bikesharing-and-traffic/blob/master/imgs/research-questions.png)
 
 ## Data pipeline
-Our workflow looked like.
+Here's what our workflow looked like.
 ![alt text](https://github.com/yannikkumar/bikesharing-and-traffic/blob/master/imgs/data-pipeline.png)
 1. We first pulled traffic and crash records from the City of Chicago's data portal, and bike-sharing data from Divvy's website (future iterations of this project could look to automate this). 
 2. We then wrangled the data into formats that worked with the database schema we designed and the types of analyses we wanted to run.
